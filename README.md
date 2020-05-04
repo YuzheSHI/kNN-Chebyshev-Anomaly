@@ -33,7 +33,7 @@ $$
 $$
 are both "1" class yet Chebyshev distance maps them to completely different spaces.
 
-### Useage
+### Usage
 
 Run the experiments on MNIST dataset to view the anomalous phenomenon that
 
