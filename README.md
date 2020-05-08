@@ -9,7 +9,7 @@ dis_{che}(\mathbf{x}_i,\mathbf{x}_j)=\max_{1\leq v\leq d}(x_{i,v}-x_{j,v})
 $$
 as the metric of kNN, I find that the validation precision would enjoy a boost for 10%-20% when 
 $$
-k=\lceil|D_{val}'|/2\rceil
+k=\lceil|D_{train}'|/2\rceil
 $$
 on MNIST Dataset.
 
